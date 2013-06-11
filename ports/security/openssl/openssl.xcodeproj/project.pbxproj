@@ -6950,7 +6950,7 @@
 					openssl/crypto,
 				);
 				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
-				ONLY_ACTIVE_ARCH = YES;
+				ONLY_ACTIVE_ARCH = NO;
 				OTHER_CFLAGS = (
 					"-DOPENSSL_NO_GMP",
 					"-DOPENSSL_NO_JPAKE",
