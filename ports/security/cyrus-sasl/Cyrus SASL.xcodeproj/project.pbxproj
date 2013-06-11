@@ -2152,6 +2152,7 @@
 					"cyrus-sasl",
 					../../../include,
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
 			};
@@ -2176,6 +2177,7 @@
 					"cyrus-sasl",
 					../../../include,
 				);
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
 				OTHER_LDFLAGS = "-ObjC";
 				SDKROOT = iphoneos;
 			};

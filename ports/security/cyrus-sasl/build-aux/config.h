@@ -382,7 +382,7 @@
 /* #undef STATIC_LDAPDB */
 
 /* Link LOGIN Staticly */
-#define STATIC_LOGIN
+/* #undef STATIC_LOGIN */
 
 /* Link NTLM Staticly */
 /* #undef STATIC_NTLM */
